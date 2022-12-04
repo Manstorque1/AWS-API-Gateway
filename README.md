@@ -3,7 +3,8 @@
 
 #### Architecture
 
-![image](https://user-images.githubusercontent.com/75940798/205504997-546df2fa-2b48-4a90-8a50-da5d76f3d98d.png)
+![image](https://user-images.githubusercontent.com/75940798/205505057-2081dc10-335e-4f17-b0bc-67cd98c8c020.png)
+
 
 
 
